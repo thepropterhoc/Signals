@@ -15,4 +15,7 @@ _Requirements_
 
 **Special thanks to Jorge L. Reyes-Ortiz, Davide Anguita, Luca Oneto and Xavier Parra for their data collection and work as well as the UCI Machine Learning Repository**
 
+_"My my, this is a lovely combination of signal processing and machine learning."_
+
 ##Quickstart
+
