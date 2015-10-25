@@ -21,57 +21,57 @@ _"My my, this is a lovely combination of signal processing and machine learning.
 
 **~/ usr$ python signals.py**
 
->----------Kernel :  poly ----------
->
-> Degree :  1
->
-> Motion Analysis : 
->
-> Correct : 2827.00 (89.41 %)
-> Incorrect : 335.00 (10.59 %)
->
-> ----------Kernel :  poly ----------
-> 
-> Degree :  2
->
-> Motion Analysis : 
->
-> Correct : 2828.00 (89.44 %)
-> Incorrect : 334.00 (10.56 %)
->
-> ----------Kernel :  poly ----------
->
-> Degree :  3
-> 
-> Motion Analysis : 
->
-> Correct : 2760.00 (87.29 %)
-> Incorrect : 402.00 (12.71 %)
->
-> ----------Kernel :  poly ----------
->
-> Degree :  4
->
-> Motion Analysis : 
->
-> Correct : 2605.00 (82.38 %)
-> Incorrect : 557.00 (17.62 %)
->
-> ----------Kernel :  sigmoid ----------
->
->
-> Motion Analysis : 
->
-> Correct : 556.00 (17.58 %)
-> Incorrect : 2606.00 (82.42 %)
->
-> ----------Kernel :  rbf ----------
->
->
-> Motion Analysis : 
->
-> Correct : 2903.00 (91.81 %)
-> Incorrect : 259.00 (8.19 %)
+>----------Kernel :  poly ----------  
+>  
+> Degree :  1  
+>  
+> Motion Analysis :   
+>   
+> Correct : 2827.00 (89.41 %)  
+> Incorrect : 335.00 (10.59 %)  
+>  
+> ----------Kernel :  poly ----------  
+>   
+> Degree :  2  
+>  
+> Motion Analysis :   
+>  
+> Correct : 2828.00 (89.44 %)  
+> Incorrect : 334.00 (10.56 %)  
+>  
+> ----------Kernel :  poly ----------  
+>  
+> Degree :  3  
+>   
+> Motion Analysis :   
+>  
+> Correct : 2760.00 (87.29 %)  
+> Incorrect : 402.00 (12.71 %)  
+>  
+> ----------Kernel :  poly ----------  
+>  
+> Degree :  4  
+>  
+> Motion Analysis :   
+>  
+> Correct : 2605.00 (82.38 %)  
+> Incorrect : 557.00 (17.62 %)  
+>  
+> ----------Kernel :  sigmoid ----------  
+>  
+>  
+> Motion Analysis :   
+>  
+> Correct : 556.00 (17.58 %)  
+> Incorrect : 2606.00 (82.42 %)  
+>  
+> ----------Kernel :  rbf ----------  
+>  
+>  
+> Motion Analysis :   
+>  
+> Correct : 2903.00 (91.81 %)  
+> Incorrect : 259.00 (8.19 %)  
 
 **You know, I'm really starting to love the RBF kernel...**
 
